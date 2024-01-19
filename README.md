@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenFaust&show_icons=true&theme=radical)](https://github.com/StephenFaust/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenFaust&show_icons=true)](https://github.com/StephenFaust/github-readme-stats)
 
 <!--
 **StephenFaust/StephenFaust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
