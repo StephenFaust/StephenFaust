@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenFaust)](https://github.com/StephenFaust/github-readme-stats)
 
 <!--
 **StephenFaust/StephenFaust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
